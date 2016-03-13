@@ -3,6 +3,7 @@ var scp = require('gulp-scp2');
 var config = require('./config.json');
 
 function onChange(file) {
+  console.log(file);
   config.destinations.forEach(function(destination){
     gulp
     .src(file.path)

@@ -1,0 +1,37 @@
+[
+  {
+    "source": "/var/www/html/wp-content/uploads/2016",
+    "destinations": [
+      {
+        "host": "46.101.185.64",
+        "username": "root",
+        "password": "Kafa1500",
+        "dest": "/var/www/html/wp-content/uploads/2016"
+      },
+      {
+        "host": "162.243.205.141",
+        "username": "root",
+        "password": "Kafa1500",
+        "dest": "/var/www/html/wp-content/uploads/2016"
+      },
+      {
+        "host": "162.243.205.187",
+        "username": "root",
+        "password": "Kafa1500",
+        "dest": "/var/www/html/wp-content/uploads/2016"
+      },
+      {
+        "host": "162.243.205.188",
+        "username": "root",
+        "password": "Kafa1500",
+        "dest": "/var/www/html/wp-content/uploads/2016"
+      },
+      {
+        "host": "162.243.205.192",
+        "username": "root",
+        "password": "Kafa1500",
+        "dest": "/var/www/html/wp-content/uploads/2016"
+      }
+    ]
+  }
+]

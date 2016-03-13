@@ -1,0 +1,24 @@
+{
+  "name": "gulp_watch_scp",
+  "version": "0.0.1",
+  "description": "FB Interview prep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nohup gulp &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozthekoder/gulp_watch_scp.git"
+  },
+  "author": "oz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozthekoder/fb_prep/issues"
+  },
+  "homepage": "https://github.com/ozthekoder/fb_prep#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-scp2": "^0.2.0"
+  }
+}

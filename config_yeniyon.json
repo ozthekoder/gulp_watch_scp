@@ -1,0 +1,11 @@
+{
+  "source": "../foo",
+  "destinations": [
+    {
+      "host": "162.243.99.75",
+      "username": "root",
+      "password": "Kafa1500",
+      "dest": "/var/www/html/wp-content/uploads/2016"
+    }
+  ]
+}
